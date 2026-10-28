@@ -65,7 +65,7 @@ def complexity_c() -> str:
     # i = 0
     # while i < n:
     #     i *= 2
-    answer = O(log n)"
+    answer = "O(log n)"
     return answer
 
 
